@@ -10,8 +10,7 @@
 - Polski Związek Głuchych: Skype [DeafUkraine](callto:<DeafUkraine>?call)
   - pon - pt, 07:00 - 23:00
   - sb - ndz, 08:00 – 20:00
-- Fundacja Świat
-- Wolontariusze: [lista tłumaczy](https://docs.google.com/spreadsheets/d/1NHeRRGx9vnf6Ve-9ImfFrzZu15mykWyz1DhYpoP4Tx0/edit#gid=0)
+- Tłumacze-wolontariusze: [lista tłumaczy](https://docs.google.com/spreadsheets/d/1NHeRRGx9vnf6Ve-9ImfFrzZu15mykWyz1DhYpoP4Tx0/edit#gid=0)
 
 ## Kontakty do organizacji pomocowych
 
@@ -28,4 +27,7 @@
 
 ---
 
-Jeśli chcesz dodac informacje o wsparciu g/Głuchych w Twoim mieście, skontaktuj się: Bartosz Marganiec [FB](https://www.facebook.com/bartosz.marganiec)
+Jeśli chcesz dodac informacje o wsparciu g/Głuchych w Twoim mieście
+Jeśli widzisz błąd na stronie, lub chcesz zaktualizowac informacje
+
+skontaktuj się: Bartosz Marganiec [FB](https://www.facebook.com/bartosz.marganiec)
