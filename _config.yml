@@ -6,3 +6,5 @@ footer_content: "Copyright &copy; 2022 Bartosz Marganiec"
 url: "https://glusiuchodzcy.pl"
 gh_edit_link: false
 color_scheme: nil
+ga_tracking: G-NLDGY5PG6E
+ga_tracking_anonymize_ip: true
