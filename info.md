@@ -6,14 +6,14 @@ nav_order: 2
 
 ## Informacje
 
-- Ukraiński/rosyjski język migowy (USL/RSL) rózni się od polskiego języka migowego (PJM).
-- By się porozumiec z g/Głuchym uchodźcą z Ukrainy, potrzebny jest tłumacz RSL/USL. Tłumacz PJM moze pomóc ze wsparciem tłumacza USL/RSL.
+- Ukraiński/rosyjski język migowy (USL/RSL) różni się od polskiego języka migowego (PJM).
+- By się porozumieć z g/Głuchym uchodźcą z Ukrainy, potrzebny jest tłumacz RSL/USL. Tłumacz PJM może pomóc ze wsparciem tłumacza USL/RSL.
 
 ## Języki migowe
 
-- PJM - polski język migowy, język migowy uzywany w Polsce przez Głuchych
-- USL/RSL - ukraiński/rosyjski język migowy, język migowy uzywany w Ukrainie i Rosji
-- IS - International Sign - międzynarodowy sposób komunikacji uzywany w międzynarodowych kontaktach Głuchych. Większośc ukraińskich Głuchych raczej go **nie zna**
+- PJM - polski język migowy, język migowy używany w Polsce przez Głuchych
+- USL/RSL - ukraiński/rosyjski język migowy, język migowy używany w Ukrainie i Rosji
+- IS - International Sign - międzynarodowy sposób komunikacji używany w międzynarodowych kontaktach Głuchych. Większość ukraińskich Głuchych raczej go **nie zna**
 
 ## Tłumacz języka migowego
 

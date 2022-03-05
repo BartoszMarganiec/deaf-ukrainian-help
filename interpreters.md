@@ -4,7 +4,7 @@ title: Tłumacz języka migowego
 nav_order: 2
 ---
 
-Aby wiedziec, jak korzystac z tłumaczy języka migowego, zapoznaj się z [podstawowymi informacjami](/info.md).
+Aby wiedzieć, jak korzystać z tłumaczy języka migowego, zapoznaj się z [podstawowymi informacjami](/info.md).
 
 ### Tłumacze ukraińskiego języka migowego
 

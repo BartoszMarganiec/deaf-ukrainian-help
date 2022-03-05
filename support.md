@@ -9,7 +9,7 @@ nav_order: 4
 ### Polski Związek Głuchych
 
 - [aktualne informacje o pomocy](https://www.pzg.org.pl/2022/03/polski-zwiazek-gluchych-organizuje-pomoc-dla-gluchych-z-ukrainy/)
-- e-mail: glusiukraina@pzg.org.pl lub deafukraine@pzg.org.pl
+- e-mail: [glusiukraina@pzg.org.pl](mailto:glusiukraina@pzg.org.pl) lub [deafukraine@pzg.org.pl](mailto:deafukraine@pzg.org.pl)
 - What’s App i Viber – dla uchodźców i darczyńców (polski język migowy, SMS):
   - 783 729 144
   - 724 028 395

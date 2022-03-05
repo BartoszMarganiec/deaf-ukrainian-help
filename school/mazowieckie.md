@@ -25,36 +25,6 @@ https://instytut-gluchoniemych.waw.pl/
 
 ---
 
-Emilia Nowak
-Dyrektor SOSW
-ul. Plac Zamkowy 2
-64-130 Rydzyna
-
-wwr
-szkoła podstawowa
-szkoły ponadpodstawowe
-(szkoła branżowa I stopnia, liceum, szkoła policealna)
-internat
-
-soswry@wp.pl
-
-http://soswrydzyna.com/
-
----
-
-Małgorzata Onasch
-Dyrektor
-Szkoła Podstawowa nr 49 dla Dzieci Niedosłyszących
-ul. Gen. Józefa Hallera 9
-81-453 Gdynia
-szkoła podstawowa
-liceum ogólnokształcące
-sekretariat@sp53gdynia.pl
-
-https://nieslyszacygdynia.pl/
-
----
-
 Anna Stopińska
 
 dyrektor

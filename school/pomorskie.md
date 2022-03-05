@@ -24,3 +24,16 @@ internat
 sekretariat@osw2wejherowo.pl
 
 https://www.osw2wejherowo.pl/
+
+## Gdynia
+
+Małgorzata Onasch
+Dyrektor
+Szkoła Podstawowa nr 49 dla Dzieci Niedosłyszących
+ul. Gen. Józefa Hallera 9
+81-453 Gdynia
+szkoła podstawowa
+liceum ogólnokształcące
+sekretariat@sp53gdynia.pl
+
+https://nieslyszacygdynia.pl/

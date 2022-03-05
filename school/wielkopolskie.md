@@ -40,3 +40,20 @@ internat
 info@os-w.pl
 
 https://os-w.pl
+
+## Rydzyna
+
+Emilia Nowak
+Dyrektor SOSW
+ul. Plac Zamkowy 2
+64-130 Rydzyna
+
+wwr
+szkoła podstawowa
+szkoły ponadpodstawowe
+(szkoła branżowa I stopnia, liceum, szkoła policealna)
+internat
+
+soswry@wp.pl
+
+http://soswrydzyna.com/
