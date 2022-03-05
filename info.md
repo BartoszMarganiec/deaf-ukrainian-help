@@ -21,7 +21,7 @@ Dlaczego ważne jest zaangażowanie Głuchych tłumaczy do pracy w teamie ze sł
 
 1. Jest bardzo mało osób znających ukraiński język migowy i język polski foniczny;
 
-2. Głusi tłumacze są w stanie lepiej wychwycić niuanse językowe oraz zrozumieć w pełni komunikat w języku migowym. Zwłaszcza w sytuacjach stresujących jakimi są pobyt w szpitalu czy ucieczka przed wojną. Dzieje się tak, dlatego, że jest to dla nich naturalne środowisko codziennej komunikacji i mają najlepsze zdolności klarowania przekazu.
+2. Głusi tłumacze są w stanie lepiej wychwycić niuanse językowe oraz zrozumieć w pełni komunikat w języku migowym, zwłaszcza w sytuacjach stresujących jakimi są pobyt w szpitalu czy ucieczka przed wojną. Dzieje się tak, dlatego, że jest to dla nich naturalne środowisko codziennej komunikacji i mają najlepsze zdolności klarowania przekazu.
 
 Jak wygląda takie tłumaczenie? Należy wezwać team
 
