@@ -6,9 +6,9 @@ nav_order: 1
 
 Strona zbiera informacje o wsparciu udzielanym przez organizacje pozarządowe na terenie Polski.
 
-### [Tłumacze języka migowego](/interpreters.md) - ukraiński język migowy, polski język migowy
+### [Tłumacze języka migowego](/interpreters.md) - tłumaczenie on-line, ukraiński język migowy, polski język migowy, lista wolontariuszy
 
-### [Kontakty do organizacji pomocowych](/support.md)
+### [Kontakty do organizacji pomocowych](/support.md) - kontakty, e-maile
 
 ---
 
