@@ -1,1 +1,0 @@
-# deaf-ukrainian-help
