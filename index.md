@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wsparcie g/Głuchych uchodźców z Ukrainy
+title: Główna
 nav_order: 1
 ---
 
