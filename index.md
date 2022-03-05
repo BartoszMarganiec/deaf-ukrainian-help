@@ -8,7 +8,7 @@ Strona zbiera informacje o wsparciu udzielanym przez organizacje pozarządowe na
 
 ### [Tłumacze języka migowego](/interpreters.md) - ukraiński język migowy, polski język migowy
 
-### (Kontakty do organizacji pomocowych)[/support.md]
+### [Kontakty do organizacji pomocowych](/support.md)
 
 ---
 
