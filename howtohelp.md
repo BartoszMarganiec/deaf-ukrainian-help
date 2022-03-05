@@ -4,8 +4,6 @@ title: Jak pomóc?
 nav_order: 3
 ---
 
-# Jak pomagac?
-
 ## Spotkałem głuchego, co mam zrobic?
 
 1. skorzystaj z tłumacza języka migowego, by się porozumiec - [tu mozesz znaleźc kontakty](/interpreters.md)

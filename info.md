@@ -32,3 +32,5 @@ Jak wygląda takie tłumaczenie? Należy wezwać team
 Głuchy tłumacz jest naprzeciwko głuchego klienta, odbiera jego informacje w języku obcym np. ukraińskim języku migowym przetwarza ją i tłumaczy ją na polski język migowy. Słyszący tłumacz odbiera informacje w PJM od głuchego tłumacza a następnie przekłada ją na język polski.
 
 Obaj tłumacze wykonują tak samo odpowiedzialną i ciężką pracę.
+
+[Lista tłumaczy języka migowego](/interpreters.md)
