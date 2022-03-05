@@ -1,3 +1,9 @@
+---
+layout: default
+title: Szkoły
+nav_order: 2
+---
+
 # Szkoły dla głuchych i niesłyszących
 
 Małgorzata Jastrzębska

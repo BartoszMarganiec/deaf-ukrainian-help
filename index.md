@@ -1,9 +1,12 @@
-# Wsparcie g/Głuchych uchodźców z Ukrainy
+---
+layout: default
+title: Wsparcie g/Głuchych uchodźców z Ukrainy
+nav_order: 1
+---
 
-- [Podstawowe informacje](/howtohelp.md)
-- [Szkoły dla g/Głuchych](/schools.md)
+Strona zbiera informacje o wsparciu udzielanym przez organizacje pozarządowe na terenie Polski.
 
-## Tłumacze ukraińskiego języka migowego
+### Tłumacze ukraińskiego języka migowego
 
 - Migam.org: [tłumacz on-line](https://tlumacz.migam.org/ukraina)
   - pon - pt, godz. 8 - 20
@@ -12,7 +15,7 @@
   - sb - ndz, 08:00 – 20:00
 - Tłumacze-wolontariusze: [lista tłumaczy](https://docs.google.com/spreadsheets/d/1NHeRRGx9vnf6Ve-9ImfFrzZu15mykWyz1DhYpoP4Tx0/edit#gid=0)
 
-## Kontakty do organizacji pomocowych
+### Kontakty do organizacji pomocowych
 
 - Polski Związek Głuchych
   - [aktualne informacje o pomocy](https://www.pzg.org.pl/2022/03/polski-zwiazek-gluchych-organizuje-pomoc-dla-gluchych-z-ukrainy/)
@@ -27,7 +30,4 @@
 
 ---
 
-Jeśli chcesz dodac informacje o wsparciu g/Głuchych w Twoim mieście
-Jeśli widzisz błąd na stronie, lub chcesz zaktualizowac informacje
-
-skontaktuj się: Bartosz Marganiec [FB](https://www.facebook.com/bartosz.marganiec)
+Jeśli chcesz dodac informacje o wsparciu g/Głuchych w Twoim mieście, chcesz zaktualizowac informacje, widzisz błąd na stronie, skontaktuj się: Bartosz Marganiec [FB](https://www.facebook.com/bartosz.marganiec)
