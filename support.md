@@ -22,3 +22,11 @@ nav_order: 6
 
 - [www](https://fundacja-echo.pl/)
 - rehabilitacja dzieci niesłyszących, pomoc osobom implantowanym
+
+## Wrocław
+
+### Fundacja Katarynka
+
+- Zapewnimy tłumaczenie migowe online w punkcie pomocowym na dworcu PKP oraz Przejściu Dialogu czy Wrocławskiego Centrum Rozwoju Społecznego
+- SMS: +48 503 112 831
+- Przez aplikację TELEGRAM

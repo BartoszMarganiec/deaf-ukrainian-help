@@ -2,7 +2,7 @@
 layout: default
 title: dolnośląskie
 parent: Szkoły
-nav_order: 3
+nav_order: 1
 ---
 
 ## Wrocław
