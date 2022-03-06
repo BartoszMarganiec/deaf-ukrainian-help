@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jak pomóc?
-nav_order: 3
+nav_order: 5
 ---
 
 ## Spotkałem głuchego, co mam zrobic?

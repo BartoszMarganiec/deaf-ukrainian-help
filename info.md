@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Podstawowe informacje
-nav_order: 2
+nav_order: 3
 ---
 
 ## Informacje
@@ -16,6 +16,12 @@ nav_order: 2
 - IS - International Sign - międzynarodowy sposób komunikacji używany w międzynarodowych kontaktach Głuchych. Większość ukraińskich Głuchych raczej go **nie zna**
 
 ## Tłumacz języka migowego
+
+Tłumacze języka migowego są zatrudniani w różnych konfiguracjach. Najczęściej się zatrudnia:
+
+- jednego tłumacza w przypadku załatwiania sprawy w urzędzie, kontaktu 1-1
+- team tłumaczy PJM - PL (2, lub więcej) w przypadku tłumaczenia konferencji, dłuższych spotkań
+- team składający się ze słyszącego i Głuchego tłumacza w razie wymagającej językowo komunikacji
 
 Dlaczego ważne jest zaangażowanie Głuchych tłumaczy do pracy w teamie ze słyszącym tłumaczem?
 
