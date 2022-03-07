@@ -13,7 +13,10 @@ nav_order: 8
 
 - informacje na instagramie w ukraińskim języku migowym [deaf_lp](https://www.instagram.com/deaf_lp/)
 
-- kanał na Telegramie - informacje w ukraińskim języku migwym: [@info_rsl_pjm](https://t.me/info_rsl_pjm)
+## Telegram
+
+- informacje w ukraińskim języku migwym: [@info_rsl_pjm](https://t.me/info_rsl_pjm)
+- transport z granicy [@transportdlagua](https://t.me/transportdlagua)
 
 ## Grupy na Facebooku
 
