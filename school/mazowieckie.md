@@ -12,7 +12,7 @@ Dyrektor
 Instytutu Głuchoniemych
 ul. Pl. Trzech Krzyży 4/6
 00-499 Warszawa
-wwr
+wczesne wspomaganie rozwoju dziecka (WWRD)
 szkoła podstawowa
 szkoły ponadpodstawowe
 (liceum, technikum, szkoła branżowa I stopnia)

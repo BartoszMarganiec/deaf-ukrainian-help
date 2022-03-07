@@ -12,4 +12,4 @@ Strona zbiera informacje o wsparciu udzielanym g/Głuchym przez organizacje poza
 
 ---
 
-Jeśli chcesz dodac informacje o wsparciu g/Głuchych w Twoim mieście, chcesz zaktualizowac informacje, widzisz błąd na stronie, skontaktuj się: Bartosz Marganiec [FB](https://www.facebook.com/bartosz.marganiec)
+Jeśli chcesz dodać informacje o wsparciu g/Głuchych w Twoim mieście, chcesz zaktualizować informacje, widzisz błąd na stronie, skontaktuj się: Bartosz Marganiec [FB](https://www.facebook.com/bartosz.marganiec)

@@ -14,7 +14,7 @@ Szkolno – Wychowawczego nr 12
 ul. Dworska 8
 54-144 Wrocław
 
-wczesne wspomaganie rozwoju dziecka (WWR)
+wczesne wspomaganie rozwoju dziecka (WWRD)
 przedszkole
 szkoła podstawowa
 szkoły ponadpodstawowe

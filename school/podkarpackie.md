@@ -14,7 +14,7 @@ dla Niesłyszących
 ul. Czarnieckiego 27
 37 – 700 Przemyśl
 
-wczesne wspomaganie rozwoju dziecka (WWR)
+wczesne wspomaganie rozwoju dziecka (WWRD)
 szkoła podstawowa
 szkoły ponadpodstawowe
 (szkoła branżowa I stopnia
