@@ -22,7 +22,8 @@ szkoły ponadpodstawowe
 szkoła przysposabiająca do pracy
 internat
 
-osrodek12@oswdn.wroclaw.pls
+osrodek12@oswdn.wroclaw.pl
+
 osrodek12@gmail.com
 
 https://www.facebook.com/dsoswdn
