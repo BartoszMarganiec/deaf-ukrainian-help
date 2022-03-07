@@ -14,6 +14,12 @@ nav_order: 6
   - 783 729 144
   - 724 028 395
 
+### Fundacja Świat Głuchych
+
+- [Facebook](https://www.facebook.com/swiatgluchych)
+- [Instagram](https://www.instagram.com/swiat_gluchych_tv/)
+- Organizujemy bazę noclegową,mamy 5-6 tłumaczy, możemy wesprzeć rzeczowo/finansowo.
+
 ### Fundacja Akademia Młodych Głuchych
 
 - [informacje](https://fundamg.pl/2022/02/26/informacje-dla-gluchych-uchodzcow-z-ukrainy/)
