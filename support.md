@@ -36,3 +36,10 @@ nav_order: 6
 - Zapewnimy tłumaczenie migowe online w punkcie pomocowym na dworcu PKP oraz Przejściu Dialogu czy Wrocławskiego Centrum Rozwoju Społecznego
 - SMS: +48 503 112 831
 - Przez aplikację TELEGRAM
+
+### Fundacja FONIS
+
+- [www](https://www.fonis.pl/z-pomoca-nieslyszacym-uchodzcom-z-ukrainy/)
+- telefon: 690 502 670
+- e-mail: kontakt@fonis.pl
+- Katedralna 4/1, 50-328 Wrocław
