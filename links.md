@@ -14,3 +14,8 @@ nav_order: 8
 - informacje na instagramie w ukraińskim języku migowym [deaf_lp](https://www.instagram.com/deaf_lp/)
 
 - kanał na Telegramie - informacje w ukraińskim języku migwym: [@info_rsl_pjm](https://t.me/info_rsl_pjm)
+
+## Grupy na Facebooku
+
+- [Deaf-pl support ua](https://www.facebook.com/groups/658772055553873/)
+- [NIESŁYSZĄCY POMAGAJĄ: wsparcie dla Ukraińców 🇺🇦](https://www.facebook.com/groups/382539790362829)
