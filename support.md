@@ -43,3 +43,16 @@ nav_order: 6
 - telefon: 690 502 670
 - e-mail: kontakt@fonis.pl
 - Katedralna 4/1, 50-328 Wrocław
+
+## Gdańsk
+
+### Stowarzyszenie Okno na świat
+
+- tłumacz PJM
+- wolontariuszka znająca ukraiński język migowy
+- [FB](https://www.facebook.com/sto.okno.na.swiat/)
+- [Strona www](www.oknonaswiat-gdansk.pl)
+- sekretariat@oknonaswiat-gdansk.pl
+- Tel.
+  - 535787666
+  - 535830225
