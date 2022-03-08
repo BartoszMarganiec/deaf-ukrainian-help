@@ -10,15 +10,20 @@ nav_order: 6
 
 - [aktualne informacje o pomocy](https://www.pzg.org.pl/2022/03/polski-zwiazek-gluchych-organizuje-pomoc-dla-gluchych-z-ukrainy/)
 - e-mail: [glusiukraina@pzg.org.pl](mailto:glusiukraina@pzg.org.pl) lub [deafukraine@pzg.org.pl](mailto:deafukraine@pzg.org.pl)
-- What’s App i Viber – dla uchodźców i darczyńców (polski język migowy, SMS):
+- Tłumacz ukraińskiego i polskiego języka migowego
+  - Skype [DeafUkraine](callto:<DeafUkraine>?call)
+  - pon - pt, 07:00 - 23:00
+  - sb - ndz, 08:00 – 20:00
+- What’s App, Viber i Telegram – dla uchodźców i darczyńców (polski język migowy, SMS):
   - 783 729 144
   - 724 028 395
+  - pon - ndz, 8:00 - 20:00
 
 ### Fundacja Świat Głuchych
 
 - [Facebook](https://www.facebook.com/swiatgluchych)
 - [Instagram](https://www.instagram.com/swiat_gluchych_tv/)
-- Organizujemy bazę noclegową,mamy 5-6 tłumaczy, możemy wesprzeć rzeczowo/finansowo.
+- Organizujemy bazę noclegową, mamy 5-6 tłumaczy, możemy wesprzeć rzeczowo/finansowo.
 
 ### Fundacja Akademia Młodych Głuchych
 
