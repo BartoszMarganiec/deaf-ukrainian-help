@@ -23,7 +23,7 @@ nav_order: 6
 
 - [Facebook](https://www.facebook.com/swiatgluchych)
 - [Instagram](https://www.instagram.com/swiat_gluchych_tv/)
-- Organizujemy bazę noclegową, mamy 5-6 tłumaczy, możemy wesprzeć rzeczowo/finansowo.
+- Organizujemy bazę noclegową, `mamy 5-6 tłumaczy, możemy wesprzeć rzeczowo/finansowo.
 
 ### Fundacja Akademia Młodych Głuchych
 
@@ -33,6 +33,11 @@ nav_order: 6
 
 - [www](https://fundacja-echo.pl/)
 - rehabilitacja dzieci niesłyszących, pomoc osobom implantowanym
+
+### Stowarzyszenie Słyszeć Bez Granic
+
+- wsparcie w otrzymaniu aparatu słuchowego
+- [FB](https://www.facebook.com/groups/415587225310758)
 
 ## Wrocław
 
@@ -53,11 +58,33 @@ nav_order: 6
 
 ### Stowarzyszenie Okno na świat
 
-- tłumacz PJM
+- tłumacz PJM, LIS i IS
 - wolontariuszka znająca ukraiński język migowy
 - [FB](https://www.facebook.com/sto.okno.na.swiat/)
 - [Strona www](www.oknonaswiat-gdansk.pl)
 - sekretariat@oknonaswiat-gdansk.pl
 - Tel.
-  - 535787666
-  - 535830225
+  - 535 787 666
+  - 535 830 225
+
+## Poznań
+
+### Polski Związek Głuchych Oddział Wielkopolski
+
+- [FB](https://www.facebook.com/PZG-Oddzia%C5%82-Wielkopolski-331397120392733)
+- [www](https://pzg-wielkopolska.pl/)
+- Teodor Głuchomirski: +48 601 839 268
+- ul. Przemysłowa 45/47 Poznań
+
+### Towarzystwo Osób Niesłyszących
+
+- [FB](https://www.facebook.com/tonpoznan)
+- Eunika Lech: +48 691 911 422
+- Joanna Mitschke-Mazur: +48 788 647
+- ul. Głogowska 27/2 Poznań
+
+### Duszpasterstwo Niesłyszących w Poznaniu
+
+- ks. Marcin Płóciennik
+- +48 721 096 962
+- ul. Świętojańska 1 Poznań
