@@ -38,6 +38,9 @@ nav_order: 6
 
 - wsparcie w otrzymaniu aparatu słuchowego
 - [FB](https://www.facebook.com/groups/415587225310758)
+- e-mail: slyszecbezgranic@slyszecbezgranic.pl
+- tel.: +48 502 517 661
+- tel.: +48 881 427 419
 
 ## Wrocław
 
@@ -88,3 +91,9 @@ nav_order: 6
 - ks. Marcin Płóciennik
 - +48 721 096 962
 - ul. Świętojańska 1 Poznań
+
+## Kraków
+
+### Magdalena Sipowicz - tłumaczka PJM
+
+- 509 692 423
